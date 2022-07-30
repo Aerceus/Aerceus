@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Aerceus
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Aerceus/Aerceus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+docker login docker.pkg.github.com -u Aerceus --password 124132655Qq
+docker-compose up -d db
+docker-compose logs -f
